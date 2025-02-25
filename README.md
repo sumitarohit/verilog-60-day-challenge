@@ -21,5 +21,5 @@ Improve debugging and verification techniques for efficient hardware design.
 
 💬 Have suggestions or want to collaborate? Let’s connect!
 
-#Verilog #FPGA #VLSI #HardwareDesign #DigitalDesign #RTL #CodingChallenge
+#Verilog #FPGA #VLSI #HardwareDesign #DigitalDesign #RTL #CodingChallenge #RTLDesign 
 
