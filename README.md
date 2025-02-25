@@ -9,8 +9,7 @@ Explore RTL design, digital circuits, and FPGA-based implementations.
 Improve debugging and verification techniques for efficient hardware design.
 
 🔹 Daily Progress:
-✔ Day 0: Hello, World!
-✔ Day 1: Logic_Gates (Coming Soon...)
+✔ Day 0: Hello, World! (Coming Soon...)
 
 
 🔹 Tools & Technologies:
