@@ -10,6 +10,8 @@ Improve debugging and verification techniques for efficient hardware design.
 
 🔹 Daily Progress:
 ✔ Day 0: Hello, World! (Coming Soon...)
+✔ Day 1: Logic Gates (Coming Soon...)
+
 
 
 🔹 Tools & Technologies:
